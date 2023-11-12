@@ -1,0 +1,12 @@
+{
+  "name": "simpleproject",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "git add . && git commit -m \"TEST\" && git push origin new_branch"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
